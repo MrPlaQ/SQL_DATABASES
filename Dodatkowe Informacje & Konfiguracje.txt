@@ -1,0 +1,5 @@
+FAQ
+Collation = Polish 100 BIN
+edit - intelisense - refresh local cache
+Ścieżka PowerDesigner:
+C:\Program Files (x86)\Sybase\PowerDesigner 15\Resource Files\DBMS\ - Ścieżka w PowerDesigner
